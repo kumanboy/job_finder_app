@@ -1,8 +1,8 @@
-#Project Name
-###Job Finder App
+# Project Name
+### Job Finder App
 
-#Languages
-###Javascript
+# Languages
+### Javascript
 
-##Framework and Technologies
-###React Native,Expo CLI
+## Framework and Technologies
+### React Native, Expo CLI
